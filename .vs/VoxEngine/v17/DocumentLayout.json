@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,32 +62,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Camera.h",
-              "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\Camera.h",
-              "RelativeDocumentMoniker": "src\\Systems\\Camera.h",
-              "ToolTip": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\Camera.h",
-              "RelativeToolTip": "src\\Systems\\Camera.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T13:21:25.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "gl.h",
-              "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\gl.h",
-              "RelativeDocumentMoniker": "src\\Systems\\gl.h",
-              "ToolTip": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\gl.h",
-              "RelativeToolTip": "src\\Systems\\gl.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T13:21:24.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Window.cpp",
               "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\Window.cpp",
@@ -96,8 +70,7 @@
               "RelativeToolTip": "src\\Systems\\Window.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T13:16:37.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T13:16:37.949Z"
             },
             {
               "$type": "Document",
@@ -109,8 +82,7 @@
               "RelativeToolTip": "src\\Systems\\Window.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T13:16:37.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T13:16:37.34Z"
             },
             {
               "$type": "Document",
@@ -122,8 +94,7 @@
               "RelativeToolTip": "src\\Systems\\WindowEventSystem.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T13:16:32.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T13:16:32.849Z"
             },
             {
               "$type": "Document",
@@ -135,21 +106,7 @@
               "RelativeToolTip": "src\\Systems\\Camera.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-21T08:50:25.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WindowEventSystem.h",
-              "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\WindowEventSystem.h",
-              "RelativeDocumentMoniker": "src\\Systems\\WindowEventSystem.h",
-              "ToolTip": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\WindowEventSystem.h",
-              "RelativeToolTip": "src\\Systems\\WindowEventSystem.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T13:18:33.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T08:50:25.37Z"
             },
             {
               "$type": "Document",
@@ -166,6 +123,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gl.h",
+              "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\gl.h",
+              "RelativeDocumentMoniker": "src\\Systems\\gl.h",
+              "ToolTip": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\gl.h",
+              "RelativeToolTip": "src\\Systems\\gl.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T13:21:24.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Camera.h",
+              "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\Camera.h",
+              "RelativeDocumentMoniker": "src\\Systems\\Camera.h",
+              "ToolTip": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\Camera.h",
+              "RelativeToolTip": "src\\Systems\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T13:21:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowEventSystem.h",
+              "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\WindowEventSystem.h",
+              "RelativeDocumentMoniker": "src\\Systems\\WindowEventSystem.h",
+              "ToolTip": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\WindowEventSystem.h",
+              "RelativeToolTip": "src\\Systems\\WindowEventSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T13:18:33.039Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "RenderSystem.h",
               "DocumentMoniker": "D:\\workspace\\projects\\VoxEngine\\VoxEngine\\src\\Systems\\RenderSystem.h",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "src\\Systems\\RenderSystem.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T13:19:03.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T13:19:03.229Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "src\\Systems\\RenderSystem.cpp",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAEEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T13:16:38.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T13:16:38.733Z"
             }
           ]
         }
