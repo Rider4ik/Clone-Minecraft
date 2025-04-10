@@ -1,0 +1,15 @@
+﻿  RenderSystem.cpp
+D:\workspace\projects\VoxEngine\VoxEngine\src\Systems\RenderSystem.cpp(18,31): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+D:\workspace\projects\VoxEngine\VoxEngine\src\Systems\RenderSystem.cpp(44,33): warning C4101: e: неиспользованная локальная переменная
+D:\workspace\projects\VoxEngine\VoxEngine\src\Systems\RenderSystem.cpp(57,37): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+D:\workspace\projects\VoxEngine\VoxEngine\src\Systems\RenderSystem.cpp(67,29): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+D:\workspace\projects\VoxEngine\VoxEngine\src\Systems\RenderSystem.cpp(72,30): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+  entryPoint.cpp
+  Window.cpp
+D:\workspace\projects\VoxEngine\VoxEngine\src\Systems\Window.cpp(39,19): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  WindowEventSystem.cpp
+  Создание кода...
+glew32s.lib(glew.obj) : warning LNK4099: "" PDB не найден с "glew32s.lib(glew.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  VoxEngine.vcxproj -> D:\workspace\projects\VoxEngine\VoxEngine\x64\Debug\VoxEngine.exe
